@@ -219,6 +219,6 @@ Order #2 served.
 No more orders to serve.
 ```
 
-You can check your code with the solution here: [Solution]()
+You can check your code with the solution here: [Solution](../scripts/queue/cafeteria_system.py)
 
 [Back to the Welcome Page](../README.md)
